@@ -1,0 +1,60 @@
+nav {
+  background: linear-gradient(to right, blue, black, red, yellow, green);
+  border-radius: 1cap;
+
+}
+
+.nav-link {
+  background-color: rgba(0, 0, 0, 0.317);
+  color: aliceblue;
+  border-radius: 2cap;
+}
+
+.navbar-toggler {
+  color: white;
+}
+
+.navbar-brand {
+  color: aliceblue;
+}
+
+.navbar-toggler-icon {
+  color: white;
+}
+
+.card-title {
+  color: black;
+}
+
+.card-text {
+  color: black;
+}
+
+body {
+  background-color: black;
+
+}
+
+.texto {
+  color: gold;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 1cap;
+}
+
+.destacados {
+  background-color: rgba(166, 163, 163, 0.534);
+  color: gold;
+  border-radius: 1cap;
+}
+
+img {
+  border-radius: 2cap;
+}
+
+p {
+  color: white;
+}
+
+h5 {
+  color: gold;
+}
